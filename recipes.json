@@ -1,0 +1,50 @@
+[
+    {
+      "title": "Pasta with Creamy Tomato Sauce",
+      "ingredients": [
+        "pasta",
+        "tomatoes",
+        "garlic",
+        "onion",
+        "olive oil",
+        "cream",
+        "parmesan cheese",
+        "salt",
+        "pepper"
+      ],
+      "instructions": "...",
+      "dietary_tags": ["vegetarian"]
+    },
+    {
+      "title": "Chicken Curry with Coconut Milk",
+      "ingredients": [
+        "chicken",
+        "onion",
+        "garlic",
+        "ginger",
+        "curry powder",
+        "coconut milk",
+        "tomatoes",
+        "chickpeas",
+        "rice"
+      ],
+      "instructions": "...",
+      "dietary_tags": ["gluten-free"]
+    },
+    {
+      "title": "Lentil Soup with Spinach",
+      "ingredients": [
+        "lentils",
+        "onion",
+        "carrot",
+        "celery",
+        "garlic",
+        "tomatoes",
+        "spinach",
+        "vegetable broth",
+        "spices"
+      ],
+      "instructions": "...",
+      "dietary_tags": ["vegan"]
+    }
+  ] 
