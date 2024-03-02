@@ -38,7 +38,7 @@ def recommend_recipes(u, f):
         if i != ["vegan"] & ["vegetarian"]: 
             return i
         user_restrictions.append(i)
-        else: 
+    else: 
         return i
         user_preferences.append(i)
         break
